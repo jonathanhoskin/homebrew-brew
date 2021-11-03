@@ -1,5 +1,5 @@
 class Gotunl < Formula
-  desc "A command-line client for Pritunl written in Go"
+  desc "Command-line client for Pritunl written in Go"
   homepage "https://github.com/cghdev/gotunl"
   version "1.2.2"
 
