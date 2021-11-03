@@ -1,4 +1,8 @@
-# Jonathanhoskin Brew
+# Jono Hoskin's Brew Tap
+
+## Provides
+
+- gotunl: [https://github.com/cghdev/gotunl](https://github.com/cghdev/gotunl)
 
 ## How do I install these formulae?
 
