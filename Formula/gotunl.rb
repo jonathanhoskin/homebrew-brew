@@ -1,6 +1,5 @@
-class Gotun < Formula
-
-  desc "gotunl is a command line client for Pritunl written in Go."
+class Gotunl < Formula
+  desc "A command-line client for Pritunl written in Go"
   homepage "https://github.com/cghdev/gotunl"
   version "1.2.2"
 
@@ -17,7 +16,6 @@ class Gotun < Formula
   end
 
   test do
-    system "#{bin}/gotunl -v"
+    system "#{bin}/gotunl", "-v"
   end
-
 end
